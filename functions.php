@@ -6,7 +6,7 @@ Plugin URI: https://github.com/nwcybersolutions/Remove-WP-Version-Footer
 Description: Removes Version from the Footer in the Admin Dashboard
 Author: Northwest Cyber Solutions
 Author URI: https://nwcybersolutions.com
-Version: 1.0
+Version: 1.0.1
 License: MIT
 License URI: https://opensource.org/licenses/MIT
 Text Domain: Remove WP Version Footer
